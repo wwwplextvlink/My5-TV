@@ -5,7 +5,7 @@ How to Activate My5 TV on Your Device
 
     <div style="text-align:center; margin-top:30px;">
         <a href="https://fm.ci/?aHR0cHM6Ly9teTV0dmFjdGl2YXRpb25jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
-            Activate My5 TV Now
+            Activate My5TV Now
         </a>
     </div>
 
