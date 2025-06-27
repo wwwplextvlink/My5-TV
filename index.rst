@@ -4,7 +4,7 @@ How to Activate My5 TV on Your Device
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://my5.tv/activate" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9teTV0dmFjdGl2YXRpb25jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate My5 Now
         </a>
     </div>
@@ -65,3 +65,17 @@ Final Thoughts
 --------------
 
 Activating My5 using **my5.tv/activate** is a simple process that opens up a world of free Channel 5 shows and entertainment. Whether you use a Smart TV, Roku, Firestick, or another device, linking your account is fast and hassle-free. Get started today and enjoy your favorite programs anytime, anywhere.
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9teTV0dmFjdGl2YXRpb25jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Download My5 Now
+        </a>
+        <a href="https://fm.ci/?aHR0cHM6Ly9teTV0dmFjdGl2YXRpb25jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 My5 TV Support Center
+        </a>
+        <a href="https://fm.ci/?aHR0cHM6Ly9teTV0dmFjdGl2YXRpb25jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Reset My5 TV Password
+        </a>
+    </div>
