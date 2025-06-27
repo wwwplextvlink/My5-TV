@@ -44,21 +44,35 @@ How to Activate My5 via my5.tv/activate: Step-by-Step
 Troubleshooting Common Activation Issues
 ----------------------------------------
 
-- **Activation Code Expired?** Reopen the My5 app on your device to get a new code.  
-- **Page Won’t Load?** Try a different browser such as Chrome, Firefox, or Safari.  
-- **Code Not Working?** Check for typing errors or restart your device and try again.  
-- **Stuck on Activation Screen?** Uninstall and reinstall the My5 app.
+- **Activation Code Expired?** 
+
+Reopen the My5 app on your device to get a new code.  
+
+- **Page Won’t Load?**
+
+Try a different browser such as Chrome, Firefox, or Safari.  
+
+- **Code Not Working?** 
+
+Check for typing errors or restart your device and try again.  
+
+- **Stuck on Activation Screen?**
+
+Uninstall and reinstall the My5 app.
 
 FAQs
 ----
 
 **Q: Is My5 free?**  
+
 A: Yes, My5 is completely free but requires signing into an account.
 
 **Q: Can I activate My5 on multiple devices?**  
+
 A: Absolutely! Just repeat the activation steps on each device.
 
 **Q: Can I watch My5 outside the UK?**  
+
 A: My5 is geo-restricted to the UK. You may need a VPN if accessing abroad.
 
 Final Thoughts
